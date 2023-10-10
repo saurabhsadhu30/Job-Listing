@@ -1,3 +1,3 @@
 # job-seakers
 
-Job seeker project for cuvette backend capstone
+Job seeker project for backend capstone
